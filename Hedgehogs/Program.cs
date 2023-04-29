@@ -1,6 +1,4 @@
-﻿using System.Drawing;
-
-void CheckInput(int[] hedgehogs, int desiredColor, int countOfColors)
+﻿void CheckInput(int[] hedgehogs, int desiredColor, int countOfColors)
 {
     //if not valid inputs
     if (hedgehogs.Length != countOfColors)
